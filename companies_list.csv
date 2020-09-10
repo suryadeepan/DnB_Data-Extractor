@@ -1,0 +1,882 @@
+,searchTerm,countryCode
+2,Exxon Mobil,US
+3,Berkshire Hathaway,US
+4,Apple,US
+5,UnitedHealth Group,US
+6,McKesson,US
+7,CVS Health,US
+8,Amazon.com,US
+9,AT&T,US
+10,General Motors,US
+11,Ford Motor,US
+12,AmerisourceBergen,US
+13,Chevron,US
+14,Cardinal Health,US
+15,Costco,US
+16,Verizon,US
+17,Kroger,US
+18,General Electric,US
+19,Walgreens Boots Alliance,US
+20,JPMorgan Chase,US
+21,Fannie Mae,US
+22,Alphabet,US
+23,Home Depot,US
+24,Bank of America Corp.,US
+25,Express Scripts Holding,US
+26,Wells Fargo,US
+27,Boeing,US
+28,Phillips 66,US
+29,Anthem,US
+30,Microsoft,US
+31,Valero Energy,US
+32,Citigroup,US
+33,Comcast,US
+34,IBM,US
+35,Dell Technologies,US
+36,State Farm Insurance Cos.,US
+37,Johnson & Johnson,US
+38,Freddie Mac,US
+39,Target,US
+40,Lowes,US
+41,Marathon Petroleum,US
+42,Procter & Gamble,US
+43,MetLife,US
+44,UPS,US
+45,PepsiCo,US
+46,Intel,US
+47,DowDuPont,US
+48,Archer Daniels Midland,US
+49,Aetna,US
+50,FedEx,US
+51,United Technologies,US
+52,Prudential Financial,US
+53,Albertsons Cos.,US
+54,Sysco,US
+55,Disney,US
+56,Humana,US
+57,Pfizer,US
+58,HP,US
+59,Lockheed Martin,US
+60,AIG,US
+61,Centene,US
+62,Cisco Systems,US
+63,HCA Healthcare,US
+64,Energy Transfer Equity,US
+65,Caterpillar,US
+66,Nationwide,US
+67,Morgan Stanley,US
+68,Liberty Mutual Insurance Group,US
+69,New York Life Insurance,US
+70,Goldman Sachs Group,US
+71,American Airlines Group,US
+72,Best Buy,US
+73,Cigna,US
+74,Charter Communications,US
+75,Delta Air Lines,US
+76,Facebook,US
+77,Honeywell International,US
+78,Merck,US
+79,Allstate,US
+80,Tyson Foods,US
+81,United Continental Holdings,US
+82,Oracle,US
+83,Tech Data,US
+84,TIAA,US
+85,TJX,US
+86,American Express,US
+87,Coca-Cola,US
+88,Publix Super Markets,US
+89,Nike,US
+90,Andeavor,US
+91,World Fuel Services,US
+92,Exelon,US
+93,Massachusetts Mutual Life Insurance,US
+94,Rite Aid,US
+95,ConocoPhillips,US
+96,CHS,US
+97,3M,US
+98,Time Warner,US
+99,General Dynamics,US
+100,USAA,US
+101,Capital One Financial,US
+102,Deere,US
+103,INTL FCStone,US
+104,Northwestern Mutual,US
+105,Enterprise Products Partners,US
+106,Travelers Cos.,US
+107,Hewlett Packard Enterprise,US
+108,Philip Morris International,US
+109,Twenty-First Century Fox,US
+110,AbbVie,US
+111,Abbott Laboratories,US
+112,Progressive,US
+113,Arrow Electronics,US
+114,Kraft Heinz,US
+115,Plains GP Holdings,US
+116,Gilead Sciences,US
+117,Mondelez International,US
+118,Northrop Grumman,US
+119,Raytheon,US
+120,Macys,US
+121,US Foods Holding,US
+122,U.S. Bancorp,US
+123,Dollar General,US
+124,International Paper,US
+125,Duke Energy,US
+126,Southern,US
+127,Marriott International,US
+128,Avnet,US
+129,Eli Lilly,US
+130,Amgen,US
+131,McDonalds,US
+132,Starbucks,US
+133,Qualcomm,US
+134,Dollar Tree,US
+135,PBF Energy,US
+136,Icahn Enterprises,US
+137,Aflac,US
+138,AutoNation,US
+139,Penske Automotive Group,US
+140,Whirlpool,US
+141,Union Pacific,US
+142,Southwest Airlines,US
+143,ManpowerGroup,US
+144,Thermo Fisher Scientific,US
+145,Bristol-Myers Squibb,US
+146,Halliburton,US
+147,Tenet Healthcare,US
+148,Lear,US
+149,Cummins,US
+150,Micron Technology,US
+151,Nucor,US
+152,Molina Healthcare,US
+153,Fluor,US
+154,Altria Group,US
+155,Paccar,US
+156,Hartford Financial Services,US
+157,Kohls,US
+158,Western Digital,US
+159,Jabil,US
+160,Community Health Systems,US
+161,Visa,US
+162,Danaher,US
+163,Kimberly-Clark,US
+164,AECOM,US
+165,PNC Financial Services,US
+166,CenturyLink,US
+167,NextEra Energy,US
+168,PG&E Corp.,US
+169,Synnex,US
+170,WellCare Health Plans,US
+171,Performance Food Group,US
+172,Sears Holdings,US
+173,Synchrony Financial,US
+174,CarMax,US
+175,Bank of New York Mellon,US
+176,Freeport-McMoRan,US
+177,Genuine Parts,US
+178,Emerson Electric,US
+179,DaVita,US
+180,Supervalu,US
+181,Gap,US
+182,General Mills,US
+183,Nordstrom,US
+184,Colgate-Palmolive,US
+185,American Electric Power,US
+186,XPO Logistics,US
+187,Goodyear Tire & Rubber,US
+188,Omnicom Group,US
+189,CDW,US
+190,Sherwin-Williams,US
+191,PPG Industries,US
+192,Texas Instruments,US
+193,C.H. Robinson Worldwide,US
+194,WestRock,US
+195,Cognizant Technology Solutions,US
+196,Newell Brands,US
+197,CBS,US
+198,Envision Healthcare,US
+199,Monsanto,US
+200,Aramark,US
+201,Applied Materials,US
+202,Waste Management,US
+203,DISH Network,US
+204,Illinois Tool Works,US
+205,Lincoln National,US
+206,HollyFrontier,US
+207,CBRE Group,US
+208,Textron,US
+209,Ross Stores,US
+210,Principal Financial,US
+211,D.R. Horton,US
+212,Marsh & McLennan,US
+213,Devon Energy,US
+214,AES,US
+215,Ecolab,US
+216,Land O Lakes,US
+217,Loews,US
+218,Kinder Morgan,US
+219,FirstEnergy,US
+220,Occidental Petroleum,US
+221,Viacom,US
+222,PayPal Holdings,US
+223,NGL Energy Partners,US
+224,Celgene,US
+225,Arconic,US
+226,Kellogg,US
+227,Las Vegas Sands,US
+228,Stanley Black & Decker,US
+229,Booking Holdings,US
+230,Lennar,US
+231,L Brands,US
+232,DTE Energy,US
+233,Dominion Energy,US
+234,Reinsurance Group of America,US
+235,J.C. Penney,US
+236,Mastercard,US
+237,BlackRock,US
+238,Henry Schein,US
+239,Guardian Life Ins. Co. of America,US
+240,Stryker,US
+241,Jefferies Financial Group,US
+242,VF,US
+243,ADP,US
+244,Edison International,US
+245,Biogen,US
+246,United States Steel,US
+247,Core-Mark Holding,US
+248,Bed Bath & Beyond,US
+249,Oneok,US
+250,BB&T Corp.,US
+251,Becton Dickinson,US
+252,Ameriprise Financial,US
+253,Farmers Insurance Exchange,US
+254,First Data,US
+255,Consolidated Edison,US
+256,Parker-Hannifin,US
+257,Anadarko Petroleum,US
+258,Estee Lauder,US
+259,State Street Corp.,US
+260,Tesla,US
+261,Netflix,US
+262,Alcoa,US
+263,Discover Financial Services,US
+264,Praxair,US
+265,CSX,US
+266,Xcel Energy,US
+267,Unum Group,US
+268,Universal Health Services,US
+269,NRG Energy,US
+270,EOG Resources,US
+271,Sempra Energy,US
+272,Toys R  Us,US
+273,Group 1 Automotive,US
+274,Entergy,US
+275,Molson Coors Brewing,US
+276,L3 Technologies,US
+277,Ball,US
+278,AutoZone,US
+279,Murphy USA,US
+280,MGM Resorts International,US
+281,Office Depot,US
+282,Huntsman,US
+283,Baxter International,US
+284,Norfolk Southern,US
+285,salesforce.com,US
+286,Laboratory Corp. of America,US
+287,W.W. Grainger,US
+288,Qurate Retail,US
+289,Autoliv,US
+290,Live Nation Entertainment,US
+291,Xerox,US
+292,Leidos Holdings,US
+293,Corning,US
+294,Lithia Motors,US
+295,Expedia Group,US
+296,Republic Services,US
+297,Jacobs Engineering Group,US
+298,Sonic Automotive,US
+299,Ally Financial,US
+300,LKQ,US
+301,BorgWarner,US
+302,Fidelity National Financial,US
+303,SunTrust Banks,US
+304,IQVIA Holdings,US
+305,Reliance Steel & Aluminum,US
+306,Nvidia,US
+307,Voya Financial,US
+308,CenterPoint Energy,US
+309,eBay,US
+310,Eastman Chemical,US
+311,American Family Insurance Group,US
+312,Steel Dynamics,US
+313,Pacific Life,US
+314,Chesapeake Energy,US
+315,Mohawk Industries,US
+316,Quanta Services,US
+317,Advance Auto Parts,US
+318,Owens & Minor,US
+319,United Natural Foods,US
+320,Tenneco,US
+321,Conagra Brands,US
+322,GameStop,US
+323,Hormel Foods,US
+324,Hilton Worldwide Holdings,US
+325,Frontier Communications,US
+326,Fidelity National Information Services,US
+327,Public Service Enterprise Group,US
+328,Boston Scientific,US
+329,O Reilly Automotive,US
+330,Charles Schwab,US
+331,Global Partners,US
+332,PVH,US
+333,Avis Budget Group,US
+334,Targa Resources,US
+335,Hertz Global Holdings,US
+336,Calpine,US
+337,Mutual of Omaha Insurance,US
+338,Crown Holdings,US
+339,Peter Kiewit Sons,US
+340,Dicks Sporting Goods,US
+341,PulteGroup,US
+342,Navistar International,US
+343,Thrivent Financial for Lutherans,US
+344,DCP Midstream,US
+345,Air Products & Chemicals,US
+346,Veritiv,US
+347,AGCO,US
+348,Genworth Financial,US
+349,Univar,US
+350,News Corp.,US
+351,SpartanNash,US
+352,Westlake Chemical,US
+353,Williams,US
+354,Lam Research,US
+355,Alaska Air Group,US
+356,Jones Lang LaSalle,US
+357,Anixter International,US
+358,Campbell Soup,US
+359,Interpublic Group,US
+360,Dover,US
+361,Zimmer Biomet Holdings,US
+362,Dean Foods,US
+363,Foot Locker,US
+364,Eversource Energy,US
+365,Alliance Data Systems,US
+366,Fifth Third Bancorp,US
+367,Quest Diagnostics,US
+368,EMCOR Group,US
+369,W.R. Berkley,US
+370,WESCO International,US
+371,Coty,US
+372,WEC Energy Group,US
+373,Masco,US
+374,DXC Technology,US
+375,Auto-Owners Insurance,US
+376,Jones Financial (Edward Jones),US
+377,Liberty Media,US
+378,Erie Insurance Group,US
+379,Hershey,US
+380,PPL,US
+381,Huntington Ingalls Industries,US
+382,Mosaic,US
+383,J.M. Smucker,US
+384,Delek US Holdings,US
+385,Newmont Mining,US
+386,Constellation Brands,US
+387,Ryder System,US
+388,National Oilwell Varco,US
+389,Adobe Systems,US
+390,LifePoint Health,US
+391,Tractor Supply,US
+392,Thor Industries,US
+393,Dana,US
+394,Weyerhaeuser,US
+395,J.B. Hunt Transport Services,US
+396,Darden Restaurants,US
+397,Yum China Holdings,US
+398,Blackstone Group,US
+399,Berry Global Group,US
+400,Builders FirstSource,US
+401,Activision Blizzard,US
+402,JetBlue Airways,US
+403,Amphenol,US
+404,A-Mark Precious Metals,US
+405,Spirit AeroSystems Holdings,US
+406,R.R. Donnelley & Sons,US
+407,Harris,US
+408,Expeditors Intl. of Washington,US
+409,Discovery,US
+410,Owens-Illinois,US
+411,Sanmina,US
+412,KeyCorp,US
+413,American Financial Group,US
+414,Oshkosh,US
+415,Rockwell Collins,US
+416,Kindred Healthcare,US
+417,Insight Enterprises,US
+418,Dr Pepper Snapple Group,US
+419,American Tower,US
+420,Fortive,US
+421,Ralph Lauren,US
+422,Spectrum Brands Holdings,US
+423,Ascena Retail Group,US
+424,United Rentals,US
+425,Caseys General Stores,US
+426,Graybar Electric,US
+427,Avery Dennison,US
+428,MasTec,US
+429,CMS Energy,US
+430,HD Supply Holdings,US
+431,Raymond James Financial,US
+432,NCR,US
+433,Hanesbrands,US
+434,Asbury Automotive Group,US
+435,Citizens Financial Group,US
+436,Packaging Corp. of America,US
+437,Alleghany,US
+438,Apache,US
+439,Dillards,US
+440,Assurant,US
+441,Franklin Resources,US
+442,Owens Corning,US
+443,Motorola Solutions,US
+444,NVR,US
+445,Rockwell Automation,US
+446,TreeHouse Foods,US
+447,Wynn Resorts,US
+448,Olin,US
+449,American Axle & Manufacturing,US
+450,Old Republic International,US
+451,Chemours,US
+452,iHeartMedia,US
+453,Ameren,US
+454,Arthur J. Gallagher,US
+455,Celanese,US
+456,Sealed Air,US
+457,UGI,US
+458,Realogy Holdings,US
+459,Burlington Stores,US
+460,Regions Financial,US
+461,AK Steel Holding,US
+462,Securian Financial Group,US
+463,S&P Global,US
+464,Markel,US
+465,TravelCenters of America,US
+466,Conduent,US
+467,M&T Bank Corp.,US
+468,Clorox,US
+469,AmTrust Financial Services,US
+470,KKR,US
+471,Ulta Beauty,US
+472,Yum Brands,US
+473,Regeneron Pharmaceuticals,US
+474,Windstream Holdings,US
+475,Magellan Health,US
+476,Western & Southern Financial,US
+477,Intercontinental Exchange,US
+478,Ingredion,US
+479,Wyndham Destinations,US
+480,Toll Brothers,US
+481,Seaboard,US
+482,Booz Allen Hamilton,US
+483,First American Financial,US
+484,Cincinnati Financial,US
+485,Avon Products,US
+486,Northern Trust,US
+487,Fiserv,US
+488,Harley-Davidson,US
+489,Cheniere Energy,US
+490,Patterson,US
+491,Peabody Energy,US
+492,ON Semiconductor,US
+493,Simon Property Group,US
+494,Western Union,US
+495,NetApp,US
+496,Polaris Industries,US
+497,Pioneer Natural Resources,US
+498,ABM Industries,US
+499,Vistra Energy,US
+500,Cintas,US
+501,State Grid,CN
+502,Sinopec Group,CN
+503,China National Petroleum,CN
+504,Royal Dutch Shell,NL
+505,Toyota Motor,JP
+506,Volkswagen,DE
+507,BP,GB
+508,Samsung Electronics,KR
+509,Glencore,CH
+510,Daimler,DE
+511,EXOR Group,IT
+512,China State Construction Engineering,CN
+513,Hon Hai Precision Industry,TW
+514,Industrial & Commer. Bank of China,CN
+515,AXA,FR
+516,Total,FR
+517,Ping An Insurance,CN
+518,Honda Motor,JP
+519,China Construction Bank,CN
+520,Trafigura Beheer,NL
+521,SAIC Motor,CN
+522,Allianz,DE
+523,Agricultural Bank of China,CN
+524,China Life Insurance,CN
+525,Walgreens,US
+526,BNP Paribas,FR
+527,Japan Post Holdings,JP
+528,Bank of China,CN
+529,JP Morgan Chase,US
+530,Gazprom,RU
+531,Prudential plc,GB
+532,BMW,DE
+533,China Mobile Communications,CN
+534,Nissan Motor,JP
+535,Nippon Tel. & Tel.,JP
+536,China Railway Engineering,CN
+537,China Railway Construction,CN
+538,Assicurazioni Generali,IT
+539,Lukoil,RU
+540,Dongfeng Motor Group,CN
+541,Siemens,DE
+542,Carrefour,FR
+543,Nestle,CH
+544,Huawei Investment & Holding,CN
+545,Petrobras,BR
+546,Bosch,DE
+547,Banco Santander,ES
+548,Hyundai Motor,KR
+549,Hitachi,JP
+550,Deutsche Telekom,DE
+551,Credit Agricole,FR
+552,Enel,IT
+553,SK Holdings,KR
+554,SoftBank Group,JP
+555,China Resources National,CN
+556,China National Offshore Oil,CN
+557,Uniper,DE
+558,ENI,IT
+559,HSBC Holdings,GB
+560,China Communications Construction,CN
+561,Pacific Construction Group,CN
+562,Sony,JP
+563,Sinochem,CN
+564,JX Holdings,JP
+565,China Energy Investment,CN
+566,Tesco,GB
+567,AEON,JP
+568,Engie,FR
+569,Airbus Group,NL
+570,Pemex,MX
+571,Peugeot,FR
+572,China Minmetals,CN
+573,China Southern Power Grid,CN
+574,Amer International Group,CN
+575,BASF,DE
+576,China Post Group,CN
+577,Panasonic,JP
+578,Rosneft Oil,RU
+579,People's Insurance Co. of China,CN
+580,Royal Ahold,NL
+581,Deutsche Post,DE
+582,Munich Re,DE
+583,Societe Generale,FR
+584,COFCO,CN
+585,U.S. Postal Service,US
+586,Beijing Automotive Group,CN
+587,China FAW Group,CN
+588,Nippon Life Insurance,JP
+589,Archelor Mittal,LU
+590,Lowe's,US
+591,Mitsubishi Corp.,JP
+592,Marubeni,JP
+593,Tewoo Group,CN
+594,Itau Unibanco Holding,BR
+595,Renault,FR
+596,Indian Oil,IN
+597,Aegon,NL
+598,China North Industries,CN
+599,China Telecommunications,CN
+600,Zurich Insurance Group,CH
+601,Aviva,GB
+602,Dai-ichi Life Insurance,JP
+603,Reliance Industries,IN
+604,CITIC Group,CN
+605,Equinor,NO
+606,Groupe BPCE,FR
+607,Unilever,GB
+608,Groupe Auchan,FR
+609,Vodafone Group,GB
+610,Aviation Industry Corp. of China,CN
+611,China Baowu Steel Group,CN
+612,PTT,TH
+613,Telefonica,ES
+614,Toyota Tsusho,JP
+615,Banco Bradesco,BR
+616,ChemChina,CN
+617,Bank of Communications,CN
+618,Roche Group,CH
+619,Anheuser-Busch InBev,BE
+620,ING Group,NL
+621,Legal & General Group,GB
+622,Louis Dreyfus Commodities,NL
+623,Banco do Brasil,BR
+624,Walt Disney,US
+625,Mitsubishi UFJ Financial Group,JP
+626,LG Electronics,KR
+627,Seven & I Holdings,JP
+628,America Movil,MX
+629,JD.Com,CN
+630,Power China,CN
+631,POSCO,KR
+632,Shandong Weiqiao Pioneering,CN
+633,Tokyo Electric Power,JP
+634,Korea Electric Power,KR
+635,Lloyds Banking Group,GB
+636,Petronas,MY
+637,Sumitomo Mitsui Financial Group,JP
+638,Bayer,DE
+639,Sinopharm,CN
+640,Wesfarmers,AU
+641,Finatis,FR
+642,Oil & Natural Gas,IN
+643,Nippon Steel & Sumitomo Metal,JP
+644,JBS,BR
+645,CNP Assurances,FR
+646,Guangzhou Automobile Industry Group,CN
+647,Novartis,CH
+648,Itochu,JP
+649,Sberbank,RU
+650,Continental,DE
+651,Christian Dior,FR
+652,Tokio Marine Holdings,JP
+653,Deutsche Bahn,DE
+654,China Merchants Bank,CN
+655,RWE,DE
+656,HCA Holdings,US
+657,State Bank of India,IN
+658,ThyssenKrupp,DE
+659,Kia Motors,KR
+660,China Pacific Insurance,CN
+661,MS&AD Insurance,JP
+662,Aluminum Corp. of China,CN
+663,Deutsche Bank,DE
+664,Banco Bilbao Vizcaya Argentaria,ES
+665,Orange,FR
+666,Vinci,FR
+667,Shanghai Pudong Devel. Bank,CN
+668,Woolworths,AU
+669,Denso,JP
+670,Evergrande Real Estate Group,CN
+671,Saint-Gobain,FR
+672,Tata Motors,IN
+673,Bunge,US
+674,Shandong Energy Group,CN
+675,Hengli Group,CN
+676,KDDI,JP
+677,Industrial Bank,CN
+678,HBIS Group,CN
+679,Lenovo Group,CN
+680,Manulife Financial,CA
+681,China South Industries Group,CN
+682,China National Building Material Group,CN
+683,Hanwha,KR
+684,China Shipbuilding Industry,CN
+685,Mitsui,JP
+686,Wilmar International,SG
+687,Sumitomo,JP
+688,China Minsheng Banking,CN
+689,Greenland Holding Group,CN
+690,Pertamina,ID
+691,E.ON,DE
+692,Sinomach,CN
+693,Swiss Re,CH
+694,Repsol,ES
+695,SSE,GB
+696,Zhejiang Geely Holding Group,CN
+697,ZF Friedrichshafen,DE
+698,Metro,DE
+699,Wuchan Zhongda Group,CN
+700,Sanofi,FR
+701,Brookfield Asset Management,CA
+702,China United Network Communications,CN
+703,Lufthansa Group,DE
+704,Rio Tinto Group,GB
+705,Mitsubishi Electric,JP
+706,China Merchants Group,CN
+707,SABIC,SA
+708,Power Corp. of Canada,CA
+709,Jardine Matheson,CN
+710,ACS,ES
+711,Pegatron,TW
+712,Volvo,SE
+713,Magna International,CA
+714,Shaanxi Yanchang Petroleum (Group),CN
+715,China Huaneng Group,CN
+716,GlaxoSmithKline,GB
+717,Talanx,DE
+718,Royal Bank of Canada,CA
+719,Shaanxi Coal & Chemical Industry,CN
+720,AIA Group,CN
+721,BHP Billiton,AU
+722,Fresenius,DE
+723,Alimentation Couche-Tard,CA
+724,Alibaba Group Holding,CN
+725,J. Sainsbury,GB
+726,Poste Italiane,IT
+727,Maersk Group,DK
+728,UBS Group,CH
+729,Bouygues,FR
+730,George Weston,CA
+731,Meiji Yasuda Life Insurance,JP
+732,Edeka Zentrale,DE
+733,Mitsubishi Heavy Industries,JP
+734,China Poly Group,CN
+735,Fujitsu,JP
+736,Bharat Petroleum,IN
+737,Accenture,IE
+738,Canon,JP
+739,Centrica,GB
+740,SNCF Mobilites,FR
+741,China Everbright Group,CN
+742,Midea Group,CN
+743,Intesa Sanpaolo,IT
+744,Vale,BR
+745,Toshiba,JP
+746,Aisin Seiki,JP
+747,Iberdrola,ES
+748,Tencent Holdings,CN
+749,China Vanke,CN
+750,China Energy Engineering Group,CN
+751,China COSCO Shipping,CN
+752,Barclays,GB
+753,Toronto-Dominion Bank,CA
+754,LyondellBasell Industries,NL
+755,Noble Group,CN
+756,ABB,CH
+757,Daiwa House Industry,JP
+758,China Aerospace Science & Technology,CN
+759,Enbridge,CA
+760,China Aerospace Science & Industry,CN
+761,Sompo Holdings,JP
+762,Suzuki Motor,JP
+763,Commonwealth Bank of Australia,AU
+764,Sumitomo Life Insurance,JP
+765,Mitsubishi Chemical Holdings,JP
+766,Country Garden Holdings,CN
+767,Quanta Computer,TW
+768,DZ Bank,DE
+769,JFE Holdings,JP
+770,Jizhong Energy Group,CN
+771,Xiamen ITG Holding Group,CN
+772,Cedar Holdings Group,CN
+773,Xiamen C&D,CN
+774,Jiangsu Shagang Group,CN
+775,Bridgestone,JP
+776,Chubb,CH
+777,Mizuho Financial Group,JP
+778,Taiwan Semiconductor Manufacturing,TW
+779,China Electronics,CN
+780,Jiangxi Copper,CN
+781,China National Aviation Fuel Group,CN
+782,Credit Suisse Group,CH
+783,CK Hutchison Holdings,CN
+784,Xiamen Xiangyu Group,CN
+785,BT Group,GB
+786,Mazda Motor,JP
+787,Hyundai Mobis,KR
+788,Xinxing Cathay International Group,CN
+789,CRH,IE
+790,Subaru,JP
+791,CRRC,CN
+792,Schlumberger,US
+793,China Electronics Technology Group,CN
+794,Johnson Controls International,IE
+795,United Services Auto. Assn.,US
+796,Loreal,FR
+797,China State Shipbuilding,CN
+798,State Power Investment,CN
+799,Medtronic,IE
+800,China Huadian,CN
+801,Idemitsu Kosan,JP
+802,Yankuang Group,CN
+803,UniCredit Group,IT
+804,Compal Electronics,TW
+805,Rajesh Exports,IN
+806,Air France-KLM Group,FR
+807,Inditex,ES
+808,Cathay Life Insurance,TW
+809,Coop Group,CH
+810,Compass Group,GB
+811,Westpac Banking,AU
+812,Migros Group,CH
+813,Phoenix Pharma,DE
+814,Medipal Holdings,JP
+815,Veolia Environnement,FR
+816,Kansai Electric Power,JP
+817,Samsung Life Insurance,KR
+818,Royal Philips,NL
+819,Schneider Electric,FR
+820,Sumitomo Electric Industries,JP
+821,Danone,FR
+822,Suning.com Group,CN
+823,Ansteel Group,CN
+824,Gas Natural Fenosa,ES
+825,Bank of Nova Scotia,CA
+826,Shougang Group,CN
+827,Wistron,TW
+828,La Poste,FR
+829,Koc Holding,TR
+830,CPC,TW
+831,GS Caltex,KR
+832,Mapfre Group,ES
+833,Adecco Group,CH
+834,SK Hynix,KR
+835,East Japan Railway,JP
+836,LafargeHolcim,CH
+837,Altice,NL
+838,SAP,DE
+839,Onex,CA
+840,Australia & New Zealand Banking Group,AU
+841,Anglo American,GB
+842,Randstad Holding,NL
+843,British American Tobacco,GB
+844,CFE,MX
+845,Xinjiang Guanghui Industry Investment,CN
+846,Nokia,FI
+847,Samsung C&T,KR
+848,International Airlines Group,GB
+849,Chubu Electric Power,JP
+850,NEC,JP
+851,Yango Longking Group,CN
+852,China Taiping Insurance Group,CN
+853,Flex,SG
+854,China Datang,CN
+855,PKN ORLEN Group,PL
+856,Ultrapar Holdings,BR
+857,KB Financial Group,KR
+858,Achmea,NL
+859,Emirates Group,AE
+860,Heineken Holding,NL
+861,Suncor Energy,CA
+862,Energie Baden-Wurttemberg,DE
+863,Michelin,FR
+864,Fubon Financial Holding,TW
+865,Adidas,DE
+866,Shanxi Jincheng Anthracite Coal Mining Group,CN
+867,Heraeus Holding,DE
+868,LG Display,KR
+869,National Australia Bank,AU
+870,Ceconomy,DE
+871,Fomento Economico Mexicano,MX
+872,Taikang Insurance Group,CN
+873,Boehringer Ingelheim,DE
+874,Rabobank Group,NL
+875,CJ Corp.,KR
+876,Yangquan Coal Industry Group,CN
+877,Shanxi LuAn Mining Group,CN
+878,Henan Energy & Chemical,CN
+879,Datong Coal Mine Group,CN
+880,BAE Systems,GB
+881,Qingdao Haier,CN
+882,Ericsson,SE
